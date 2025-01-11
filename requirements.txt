@@ -1,0 +1,12 @@
+sklearn
+numpy
+matplotlib
+seaborn
+pickle
+OpenCV
+NumPy
+Scikit-learn
+nibabel
+tensorflow
+matplotlib
+-e .
