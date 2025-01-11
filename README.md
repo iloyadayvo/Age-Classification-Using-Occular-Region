@@ -1,0 +1,2 @@
+## Occular age classification using machine learning
+## Project Description: This project focuses on developing and implementing a machine learning machine learning-based system that estimates a person's age by analyzing ocular (eye region) images. This project leverages cascade classifiers trained on various datasets, including the OpenCV haarcascade eye detection models. The system aims to classify individuals into different age groups based on their eye characteristics, offering a practical solution for age estimation in various applications.
